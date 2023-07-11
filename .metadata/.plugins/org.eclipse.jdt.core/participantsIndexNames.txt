@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\119780\git\spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3514725236.index
+\spring-mvc-helloworld-example\src\main\java
+C:\Users\119780\git\spring5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2490981356.index
+\spring-mvc-helloworld-example\src\main\java
